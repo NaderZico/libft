@@ -27,8 +27,3 @@ Include the header and link the library:
 ```bash
 cc main.c -L. -lft
 ```
-
-## What I learned
-- Pointer arithmetic and manual memory management
-- Writing a Makefile and producing a reusable static library
-- Handling edge cases (NULL, overlapping memory, integer limits) without relying on existing code
